@@ -114,4 +114,4 @@ For educational purposes only. Not a substitute for professional medical advice.
 ---
 
 ## Author
-Nainika M | Under guidance of Dr. Beebi Naseeba
+Nainika M 
