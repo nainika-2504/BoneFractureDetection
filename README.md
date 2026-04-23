@@ -1,4 +1,4 @@
-# 🦴 Bone Fracture Detection
+#  Bone Fracture Detection
 ### Deep Learning Medical Imaging Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -115,3 +115,5 @@ For educational purposes only. Not a substitute for professional medical advice.
 
 ## Author
 Nainika M 
+Nandhini
+
